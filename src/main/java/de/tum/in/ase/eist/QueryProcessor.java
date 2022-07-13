@@ -30,7 +30,7 @@ public class QueryProcessor {
             } else
 
             return "";
-            //comment
+            //
         }
     }
 }
